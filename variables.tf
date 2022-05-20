@@ -14,5 +14,5 @@ variable "ssh_key_path" {
 }
 
 variable "bucket_name" {
-  default = "testingpandabucket2"
+  # default = "<name>-<surname>-panda-devops-core-8"
 }
