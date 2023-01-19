@@ -1,3 +1,3 @@
 aws_key_name = "panda_kurs"
 ssh_key_path = "~/.ssh/panda_kurs.pem"
-bucket_name  = "testingmateuszwocka2"
+bucket_name  = "mateusz-wocka-panda-devops-core-11"
