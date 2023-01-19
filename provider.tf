@@ -10,7 +10,7 @@ provider "aws" {
 terraform {
   backend "s3" {
     # bucket = "mateusz-wocka-panda-devops-core-11"
-    bucket = "testingpandabucket2"
+    bucket = "mateusz-wocka-panda-devops-core-11"
     key = "infra/terraform.state"
     region = "us-east-1"
   }
